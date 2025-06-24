@@ -1,0 +1,69 @@
+.home-background {
+  background-image: url(/src/images/ledzeppelin.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.home-background h1 {
+  font-size: 4rem;
+}
+
+.music-background {
+  background-image: url(/src/images/ledzeppelin.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+}
+
+.group-name-header {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
+  border: 1px solid white;
+  color: white;
+}
+
+.navbar {
+  background-color: white !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.music-details-page {
+  background-image: url(/src/images/ledzeppelin.jpg);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.music-details-page .form-control {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.artist-detail-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.album-detail-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.navbar-brand {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.pagination .page-item .page-link {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
